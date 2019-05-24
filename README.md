@@ -6,7 +6,7 @@
 npm install -g firebase-tools
 firebase login
 firebase use <projectId>
-cd ../functions/
+cd functions/
 npm i
 npm run build
 cd ../
