@@ -6,9 +6,9 @@
 firebase login
 firebase use <projectId>
 npm i
-npm i
 cd ../functions/
 npm i
+npm run build
 cd ../
 firebase serve
 ```
