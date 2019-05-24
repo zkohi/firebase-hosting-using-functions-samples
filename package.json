@@ -1,21 +1,21 @@
 {
-  "name": "firebase-hosting-using-functions",
+  "name": "firebase-hosting-using-functions-samples",
   "version": "1.0.0",
-  "description": "",
+  "description": "firebase-hosting-using-functions-samples",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/zkohi/firebase-hosting-using-functions.git"
+    "url": "git+ssh://git@github.com/zkohi/firebase-hosting-using-functions-samples.git"
   },
-  "author": "",
+  "author": "zkohi <kohiandrew@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zkohi/firebase-hosting-using-functions/issues"
+    "url": "https://github.com/zkohi/firebase-hosting-using-functions-samples/issues"
   },
-  "homepage": "https://github.com/zkohi/firebase-hosting-using-functions#readme",
+  "homepage": "https://github.com/zkohi/firebase-hosting-using-functions-samples#readme",
   "dependencies": {
     "firebase": "^6.0.4"
   },
