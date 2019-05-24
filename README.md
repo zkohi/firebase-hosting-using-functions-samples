@@ -10,6 +10,7 @@ cd ../functions/
 npm i
 npm run build
 cd ../
+mkdir public
 firebase serve
 ```
 
