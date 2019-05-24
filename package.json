@@ -16,9 +16,7 @@
     "url": "https://github.com/zkohi/firebase-hosting-using-functions-samples/issues"
   },
   "homepage": "https://github.com/zkohi/firebase-hosting-using-functions-samples#readme",
-  "dependencies": {
-    "firebase": "^6.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "prettier": "^1.17.1",
     "tslint-config-prettier": "^1.18.0"

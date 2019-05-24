@@ -3,9 +3,9 @@
 ## Setup
 
 ```
+npm install -g firebase-tools
 firebase login
 firebase use <projectId>
-npm i
 cd ../functions/
 npm i
 npm run build
